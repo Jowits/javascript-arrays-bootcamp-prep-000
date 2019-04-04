@@ -1,10 +1,10 @@
 chocolateBars = [snickers, hundred grand, kitkat, skittles]
 
-function addElementToBeginningOfArray(arr, n){
-  arr = []
-  return arr.unshift()
+function addElementToBeginningOfArray(array, element){
+  array = []
+  return array.unshift()
 }
 
-function destructivelyAddElementToBeginningOfArray(arr, n) {
+function destructivelyAddElementToBeginningOfArray(array, element) {
   arr = []
 }
